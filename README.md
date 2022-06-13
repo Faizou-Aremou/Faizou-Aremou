@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 
-my name is **Faizou** i'm front-end web developper specialized in Angular. I develop here some projets that emphasize 
+my name is **Faizou**, i'm front-end web developper specialized in Angular. I develop here some projets that emphasize 
 
 - modern layout (flex, grid, etc)
 - the implementation of generic components
