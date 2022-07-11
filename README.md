@@ -3,7 +3,7 @@
 
 my name is **Faizou**, i'm front-end web developper specialized in Angular. I develop here some projets that emphasize 
 
-- modern layout (flex, grid, etc.)
+- modern layout (flexbox, grid, etc.)
 - the implementation of generic web components
 - functional programming
 - Angular state management
