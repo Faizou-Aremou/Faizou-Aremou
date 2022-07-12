@@ -8,6 +8,8 @@ my name is **Faizou**, i'm front-end web developper specialized in Angular. I de
 - functional programming
 - Angular state management
 - Angular performance optimisation
+- Software architecture
+- Design patterns
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/fa%C3%AFzou-aremou-8b125b110/)
 
 
