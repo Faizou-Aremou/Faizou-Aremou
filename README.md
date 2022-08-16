@@ -7,7 +7,7 @@ my name is **Faizou**, i'm front-end web developper specialized in Angular. I de
 - Material Design
 - The implementation of generic web components
 - Functional programming
-- State management with Ngrx
+- State management with NgRx
 - Performance optimisation
 - Software architectures (Domain Driven Design, pushed based architecture, clean architecture, design patterns)
 - Coding using refractoring all along
